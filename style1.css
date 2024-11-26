@@ -1,0 +1,41 @@
+.bg {
+    background-image: url(pic/bg1.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 800px;
+}
+
+.tb {
+    width: 60%;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 15%;
+    margin-bottom: 30%;
+}
+
+h1 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    padding: 8px;
+    background-color: red;
+}
